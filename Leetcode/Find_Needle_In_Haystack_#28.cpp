@@ -1,4 +1,5 @@
-//Problem's link - https://leetcode.com/problems/implement-strstr/
+//Problem's link -> https://leetcode.com/problems/implement-strstr
+//Problem's code -> 28. Implement strStr() (Leetcode#28)
 class Solution {
 public:
     int strStr(string haystack, string needle) {
